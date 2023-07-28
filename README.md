@@ -9,7 +9,7 @@
 	# aktiver venv
 	source intro_til_spraktek/bin/activate
 		
-## PIP installer dependencies'
+## PIP installer dependencies
 
 	pip install -r requirements.txt
 	
